@@ -91,7 +91,8 @@
   padding: 100px 0 140px;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
+  position: 50% 50%;
 }
 
 .staff__title {
